@@ -14,7 +14,7 @@ I wil push new commits and update project information by working on it</br>
 ## Previews / Превью
 <img  src="./readme_assets/demo.gif" width="25%">
 
-## Used technologies / Использованные технологии
+## Technologies used / Используемые технологии
 - Swift
 - UIKit without any storyboards (programmatically)
 - Core Data
