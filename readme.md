@@ -19,5 +19,6 @@ I wil push new commits and update project information by working on it</br>
 - UIKit without any storyboards (programmatically)
 - Core Data
 - Firebase
+- CocoaPods
 - GSD
 - ARC
