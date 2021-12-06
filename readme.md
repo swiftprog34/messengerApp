@@ -12,7 +12,7 @@ I wil push new commits and update project information by working on it</br>
 Я буду добавлять новые коммиты и обновлять информацию о проекте, работая над ним.</br>
 
 ## Previews / Превью
-<img  src="./readme_assets/demo.gif" width="50%">
+<img  src="./readme_assets/demo.gif" width="30%">
 
 ## Used technologies / Использованные технологии
 - Swift
