@@ -17,7 +17,7 @@ I wil push new commits and update project information by working on it</br>
 ## Technologies used / Используемые технологии
 - Swift
 - UIKit without any storyboards (programmatically)
-- Realm
+- Core Data
 - Firebase
 - CocoaPods
 - GSD
