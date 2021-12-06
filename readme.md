@@ -1,4 +1,4 @@
-# Messenger App
+# Social App
 
 ## About the project / О проекте
 
